@@ -7,7 +7,7 @@
 </picture>
 
 ## About  me
-Hi,I'm Kunal. You recognize me as GitHub' mascot
+Hi,I'm **Kunal**. You recognize me as GitHub' mascot
 
 <details open>
 <summary>My top programming Languages</summary>
@@ -31,7 +31,12 @@ Hi,I'm Kunal. You recognize me as GitHub' mascot
 
 
 -Walson's Law
-
+some basic `Git`  commands are:
+```
+git status
+git add
+git commit
+```
 <!--
 
 
